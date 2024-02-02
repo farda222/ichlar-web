@@ -1,0 +1,10 @@
+* {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+.bar {
+  width: 25px;
+  height: 3px;
+  background-color: #fff;
+  margin: 5px 0;
+}
